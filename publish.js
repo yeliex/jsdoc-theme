@@ -478,7 +478,7 @@ function buildNavHeading (content) {
  */
 function buildNavItem (itemContent) {
   return [
-    '<li class="nav-item">',
+    '<li class="nav-item" style="padding-left: 12px;">',
     itemContent,
     '</li>'
   ].join('')
@@ -486,9 +486,7 @@ function buildNavItem (itemContent) {
 
 function buildNavType (type, typeLink) {
   return [
-    '<span class="nav-item-type type-' + type + '">',
-    type[0].toUpperCase(),
-    '</span>',
+    '<span style="padding-left: 12px;">- </span>',
 
     '<span class="nav-item-name">',
     typeLink,

@@ -1,6 +1,6 @@
 {
-  "name": "minami",
-  "version": "1.2.3",
+  "name": "jsdoc-theme",
+  "version": "1.0.0",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nijikokun/minami.git"
+    "url": "https://github.com/yeliex/jsdoc-theme.git"
   },
-  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "author": "yeliex <yeliex@yeliex.com>",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -18,7 +18,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Nijikokun/minami/issues"
+    "url": "https://github.com/yeliex/jsdoc-theme/issues"
   },
-  "homepage": "https://github.com/Nijikokun/minami"
+  "homepage": "https://github.com/yeliex/jsdoc-theme"
 }
