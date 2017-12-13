@@ -1,5 +1,5 @@
 {
-  "name": "jsdoc-theme",
+  "name": "@yeliex/jsdoc-theme",
   "version": "1.0.0",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
